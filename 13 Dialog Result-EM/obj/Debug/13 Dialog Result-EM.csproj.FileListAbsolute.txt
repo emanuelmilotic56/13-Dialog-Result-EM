@@ -1,0 +1,10 @@
+C:\Users\Učenik 1\source\repos\13 Dialog Result-EM\13 Dialog Result-EM\bin\Debug\13 Dialog Result-EM.exe.config
+C:\Users\Učenik 1\source\repos\13 Dialog Result-EM\13 Dialog Result-EM\bin\Debug\13 Dialog Result-EM.exe
+C:\Users\Učenik 1\source\repos\13 Dialog Result-EM\13 Dialog Result-EM\bin\Debug\13 Dialog Result-EM.pdb
+C:\Users\Učenik 1\source\repos\13 Dialog Result-EM\13 Dialog Result-EM\obj\Debug\13 Dialog Result-EM.csprojAssemblyReference.cache
+C:\Users\Učenik 1\source\repos\13 Dialog Result-EM\13 Dialog Result-EM\obj\Debug\_13_Dialog_Result_EM.Form1.resources
+C:\Users\Učenik 1\source\repos\13 Dialog Result-EM\13 Dialog Result-EM\obj\Debug\_13_Dialog_Result_EM.Properties.Resources.resources
+C:\Users\Učenik 1\source\repos\13 Dialog Result-EM\13 Dialog Result-EM\obj\Debug\13 Dialog Result-EM.csproj.GenerateResource.cache
+C:\Users\Učenik 1\source\repos\13 Dialog Result-EM\13 Dialog Result-EM\obj\Debug\13 Dialog Result-EM.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 1\source\repos\13 Dialog Result-EM\13 Dialog Result-EM\obj\Debug\13 Dialog Result-EM.exe
+C:\Users\Učenik 1\source\repos\13 Dialog Result-EM\13 Dialog Result-EM\obj\Debug\13 Dialog Result-EM.pdb
